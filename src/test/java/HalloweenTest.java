@@ -8,5 +8,6 @@ public class HalloweenTest {
         //
         //changes being made
         //another change
+        //change
     }
 }
